@@ -17,7 +17,7 @@ Like this:
 ## Installation
 1. Clone the theme into your custom themes directory (or just download the theme file):
 ```bash
-git clone https://github.com/yourusername/javierson.git 
+git clone https://github.com/Javojav/javierson.git 
 ```
 
 
